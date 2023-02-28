@@ -1,5 +1,6 @@
 # Weather App
 
-## Abane Sebiane
+## Description : 
+Use HTML, CSS, and JavaScript to create a fully functional weather app using an API.
 
-[Voir le lien du site](https://abane1.github.io/weather_app/)
+[See website](https://abane1.github.io/weather_app/)
